@@ -1,0 +1,244 @@
+10/23/22 14:42:14.879 [750] <COEX_Warning>: WRM Version: 
+
+09/28/22 23:33:38.889 [1523] <COEX_Warning>: Init Platform Policies for wrmPlatformId(1000)
+09/28/22 23:33:38.889 [1523] <COEX_Trace>: ConfigInfo not Found
+09/28/22 23:33:38.889 [1523] <COEX_Trace>: WiFi controller init
+09/28/22 23:33:38.889 [1523] <COEX_Detail>: Platform Coex Features: {(
+)}
+09/28/22 23:33:38.889 [1523] <COEX_Detail>: Cellular Configuration
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Max TxPower High: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Max TxPower Low: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Max LTE Denial: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Max Allowed Frame Denials :(null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Frame Denial Window :(null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Tx Pwr Threshold for Adv Tx :(null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Tx Rb Threshold for Adv Tx :(null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     LTE Scan Protection Frequencies: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Scan Protection Channels: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Scan Protection Max Duration: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>: WiFi Configuration
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Black Listed Channels on B7  : (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     WCI2 Enabled Channels on B7  : (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Black Listed Channels on B40A: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     WCI2 Enabled Channels on B40A: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Black Listed Channels on B40B: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     WCI2 Enabled Channels on B40B: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Black Listed Channels on B41A1: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     WCI2 Enabled Channels on B41A1: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Black Listed Channels on B41A2: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     WCI2 Enabled Channels on B41A2: (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Rx Pri Threshold Low : (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Rx Pri Threshold Med : (null)
+09/28/22 23:33:38.889 [1523] <COEX_Detail>:     Rx Pri Threshold High: (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Antenna Non-Coex Config     : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Antenna Non-Coex Cell Policy: (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Antenna Coex Config         : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Antenna Coex Cell Policy    : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>: BT Configuration
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     AFHMap Default : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     AFHMap B7   : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     AFHMap B40A : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     AFHMap B40B : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     AFHMap B41A1: (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     AFHMap B41A2: (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Preferred Role : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Antenna Coex Default     : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Antenna Non-Coex Default : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Antenna Coex Config      : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Detail>:     Antenna Non-Coex Config  : (null)
+09/28/22 23:33:38.890 [1523] <COEX_Info>: WCM_PolicyManager: platformId 1000 coexSupported 0 iRATSupported 1
+09/28/22 23:33:38.891 [1523] <COEX_Warning>: DisableCoex not found in com.apple.operator
+09/28/22 23:33:38.891 [1523] <COEX_Trace>: ULCA Init-0-ULCA critical bitmap 1
+09/28/22 23:33:38.896 [1523] <COEX_Trace>: WCM_WiFiService init
+09/28/22 23:33:39.022 [1523] <COEX_Trace>: WiFiS: device power on
+09/28/22 23:33:39.022 [1523] <COEX_Public>: WiFiS: wifiState(ENABLED) wifiChannel(0)
+09/28/22 23:33:39.023 [1523] <COEX_Trace>: WCM_Controller was created for WCMWiFi
+09/28/22 23:33:39.023 [1523] <COEX_Trace>: Initialize <WCM_WiFiControllerMacOS: 0x7fcf7e711ef0> for WCMWiFi
+09/28/22 23:33:39.023 [1523] <COEX_Trace>: Handle controller availability for WCMWiFi
+09/28/22 23:33:39.023 [1523] <COEX_Detail>: configureAllWCI2 gets called with input (bool)enable =0
+09/28/22 23:33:39.023 [1523] <COEX_Detail>: updateWCI2CoexPolicy gets called by configureAllWCI2 with input 0 due to (bool)enable is False as input to configureAllWCI2
+09/28/22 23:33:39.023 [1523] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (configureAllWCI2)
+09/28/22 23:33:39.023 [1523] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+09/28/22 23:33:39.023 [1523] <COEX_Detail>: BTController Init
+09/28/22 23:33:39.024 [1523] <COEX_Trace>: WCM_Controller was created for WCMBT
+09/28/22 23:33:39.025 [1523] <COEX_Trace>: Initialize <WCM_BTControllerMacOS: 0x7fcf7e715c50> for WCMBT
+09/28/22 23:33:39.025 [1523] <COEX_Trace>: Handle controller availability for WCMBT
+09/28/22 23:33:39.025 [1523] <COEX_Detail>: configureAllWCI2 gets called with input (bool)enable =0
+09/28/22 23:33:39.025 [1523] <COEX_Detail>: updateWCI2CoexPolicy gets called by configureAllWCI2 with input 0 due to (bool)enable is False as input to configureAllWCI2
+09/28/22 23:33:39.025 [1523] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (configureAllWCI2)
+09/28/22 23:33:39.026 [1523] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: WCM_Server: Handling XPC Event : <OS_xpc_connection: <connection: 0x7fcf7f108fb0> { name = com.apple.WirelessCoexManager.peer.0x7fcf7f108fb0, listener = false, pid = 484, euid = 501, egid = 20, asid = 100003 }>
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: WCM_Server: Handling XPC Connection Event
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: WCM_Session init
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: WCM_Server: 1 active sessions
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: WCM_Server: Handling XPC Event : <OS_xpc_connection: <connection: 0x7fcf7f10bd40> { name = com.apple.WirelessCoexManager.peer.0x7fcf7f10bd40, listener = false, pid = 484, euid = 501, egid = 20, asid = 100003 }>
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: WCM_Server: Handling XPC Connection Event
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: WCM_Session init
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: WCM_Server: 2 active sessions
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+09/28/22 23:33:39.026 [1523] <COEX_Public>: WiFi powerState(0 -> 1)
+09/28/22 23:33:39.026 [1523] <COEX_Public>: wifiState(DISABLED -> ENABLED) wifiChannel(0 -> 0)
+09/28/22 23:33:39.026 [1523] <COEX_Detail>: centerFreq(0 -> 0) bandwidth(0 -> 20)
+09/28/22 23:33:39.026 [1523] <COEX_Public>: Updating policy for WiFi power on
+09/28/22 23:33:39.026 [1523] <COEX_Trace>:  In sendRCU2UpdateMessage.. enter
+09/28/22 23:33:39.026 [1523] <COEX_Detail>: Handling WIFI Network Config change
+09/28/22 23:33:39.026 [1523] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+09/28/22 23:33:39.026 [1523] <COEX_Detail>: Handling WIFI Network Config change
+09/28/22 23:33:39.026 [1523] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: updateBTConnectedDevices with btPower=off
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: handleBTLeConn updating state to WiFi
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: LastSent: EN(0) DC(0) DUR(0) Peak(0)
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: CurrState: wifi(ENABLED) EN(0) DC(0) DUR(0) Peak(30) 
+09/28/22 23:33:39.026 [1523] <COEX_Trace>: [BTCoexCA] updateBTCoexWifiState=ENABLED wifiChannel=0
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: Received messageId(1) from WCMUnknown <OS_xpc_dictionary: <dictionary: 0x7fcf7f2152f0> { count = 2, transaction: 1, voucher = 0x7fcf7f206f70, contents =
+	"kMessageId" => <uint64: 0x9769501f73037cbf>: 1
+	"kMessageArgs" => <dictionary: 0x7fcf7f211a10> { count = 1, transaction: 0, voucher = 0x0, contents =
+		"kWCMRegisterProcess_ProcessId" => <uint64: 0x9769501f7303ccbf>: 10
+	}
+}>
+09/28/22 23:33:39.027 [1523] <COEX_Warning>: WCM_Session: Coex not active on this platform, not registering for WRMIPTelephony
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: WCM_Controller was created for WRMIPTelephony
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: Initialize IP Telephony iRAT Manager Controller for WRMIPTelephony
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: WCM_Session: Registed with Handover Manager, updating controller
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: Received messageId(1) from WCMUnknown <OS_xpc_dictionary: <dictionary: 0x7fcf7f2155c0> { count = 2, transaction: 1, voucher = 0x7fcf7f206f70, contents =
+	"kMessageId" => <uint64: 0x9769501f73037cbf>: 1
+	"kMessageArgs" => <dictionary: 0x7fcf7f215160> { count = 1, transaction: 0, voucher = 0x0, contents =
+		"kWCMRegisterProcess_ProcessId" => <uint64: 0x9769501f73031cbf>: 7
+	}
+}>
+09/28/22 23:33:39.027 [1523] <COEX_Warning>: WCM_Session: Coex not active on this platform, not registering for WRMCommCenter
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: WCM_Controller was created for WRMCommCenter
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: Initialize <WRM_iRATClientController: 0x7fcf7f215110> for WRMCommCenter
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: WCM_Session: Registed with Handover Manager, updating controller
+09/28/22 23:33:39.027 [1523] <COEX_Trace>: AWD query callbacks registration result: AntSelPolicyStats 1 ULCACoexStats 1
+09/28/22 23:33:39.035 [1523] <COEX_Trace>: WiFiS: powerStateDidChangeForWiFiInterfaceWithName for en0
+09/28/22 23:33:39.036 [1523] <COEX_Public>: WiFi powerState(1 -> 1)
+09/28/22 23:33:39.036 [1523] <COEX_Public>: Updating policy for WiFi power on
+09/28/22 23:33:39.036 [1523] <COEX_Trace>:  In sendRCU2UpdateMessage.. enter
+09/28/22 23:33:39.036 [1523] <COEX_Detail>: Handling WIFI Network Config change
+09/28/22 23:33:39.036 [1523] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+09/28/22 23:33:39.036 [1523] <COEX_Public>: WiFiS: wifiState(ENABLED) wifiChannel(0)
+09/28/22 23:33:39.036 [1523] <COEX_Public>: wifiState(ENABLED -> ENABLED) wifiChannel(0 -> 0)
+10/23/22 14:42:14.885 [750] <COEX_Warning>: Init Platform Policies for wrmPlatformId(1000)
+10/23/22 14:42:14.886 [750] <COEX_Trace>: ConfigInfo not Found
+10/23/22 14:42:14.886 [750] <COEX_Trace>: WiFi controller init
+10/23/22 14:42:14.886 [750] <COEX_Detail>: Platform Coex Features: {(
+)}
+10/23/22 14:42:14.886 [750] <COEX_Detail>: Cellular Configuration
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Max TxPower High: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Max TxPower Low: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Max LTE Denial: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Max Allowed Frame Denials :(null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Frame Denial Window :(null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Tx Pwr Threshold for Adv Tx :(null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Tx Rb Threshold for Adv Tx :(null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     LTE Scan Protection Frequencies: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Scan Protection Channels: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Scan Protection Max Duration: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>: WiFi Configuration
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Black Listed Channels on B7  : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     WCI2 Enabled Channels on B7  : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Black Listed Channels on B40A: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     WCI2 Enabled Channels on B40A: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Black Listed Channels on B40B: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     WCI2 Enabled Channels on B40B: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Black Listed Channels on B41A1: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     WCI2 Enabled Channels on B41A1: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Black Listed Channels on B41A2: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     WCI2 Enabled Channels on B41A2: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Rx Pri Threshold Low : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Rx Pri Threshold Med : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Rx Pri Threshold High: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Antenna Non-Coex Config     : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Antenna Non-Coex Cell Policy: (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Antenna Coex Config         : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     Antenna Coex Cell Policy    : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>: BT Configuration
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     AFHMap Default : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     AFHMap B7   : (null)
+10/23/22 14:42:14.886 [750] <COEX_Detail>:     AFHMap B40A : (null)
+10/23/22 14:42:14.887 [750] <COEX_Detail>:     AFHMap B40B : (null)
+10/23/22 14:42:14.887 [750] <COEX_Detail>:     AFHMap B41A1: (null)
+10/23/22 14:42:14.887 [750] <COEX_Detail>:     AFHMap B41A2: (null)
+10/23/22 14:42:14.887 [750] <COEX_Detail>:     Preferred Role : (null)
+10/23/22 14:42:14.887 [750] <COEX_Detail>:     Antenna Coex Default     : (null)
+10/23/22 14:42:14.887 [750] <COEX_Detail>:     Antenna Non-Coex Default : (null)
+10/23/22 14:42:14.887 [750] <COEX_Detail>:     Antenna Coex Config      : (null)
+10/23/22 14:42:14.887 [750] <COEX_Detail>:     Antenna Non-Coex Config  : (null)
+10/23/22 14:42:14.887 [750] <COEX_Info>: WCM_PolicyManager: platformId 1000 coexSupported 0 iRATSupported 1
+10/23/22 14:42:14.888 [750] <COEX_Warning>: DisableCoex not found in com.apple.operator
+10/23/22 14:42:14.888 [750] <COEX_Trace>: ULCA Init-0-ULCA critical bitmap 1
+10/23/22 14:42:14.891 [750] <COEX_Trace>: WCM_WiFiService init
+10/23/22 14:42:15.123 [750] <COEX_Trace>: WiFiS: device power on
+10/23/22 14:42:15.124 [750] <COEX_Public>: WiFiS: wifiState(ENABLED) wifiChannel(0)
+10/23/22 14:42:15.124 [750] <COEX_Trace>: WCM_Controller was created for WCMWiFi
+10/23/22 14:42:15.124 [750] <COEX_Trace>: Initialize <WCM_WiFiControllerMacOS: 0x7f7892807a00> for WCMWiFi
+10/23/22 14:42:15.124 [750] <COEX_Trace>: Handle controller availability for WCMWiFi
+10/23/22 14:42:15.124 [750] <COEX_Detail>: configureAllWCI2 gets called with input (bool)enable =0
+10/23/22 14:42:15.124 [750] <COEX_Detail>: updateWCI2CoexPolicy gets called by configureAllWCI2 with input 0 due to (bool)enable is False as input to configureAllWCI2
+10/23/22 14:42:15.124 [750] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (configureAllWCI2)
+10/23/22 14:42:15.124 [750] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/23/22 14:42:15.124 [750] <COEX_Detail>: BTController Init
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Controller was created for WCMBT
+10/23/22 14:42:15.125 [750] <COEX_Trace>: Initialize <WCM_BTControllerMacOS: 0x7f78928111d0> for WCMBT
+10/23/22 14:42:15.125 [750] <COEX_Trace>: Handle controller availability for WCMBT
+10/23/22 14:42:15.125 [750] <COEX_Detail>: configureAllWCI2 gets called with input (bool)enable =0
+10/23/22 14:42:15.125 [750] <COEX_Detail>: updateWCI2CoexPolicy gets called by configureAllWCI2 with input 0 due to (bool)enable is False as input to configureAllWCI2
+10/23/22 14:42:15.125 [750] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (configureAllWCI2)
+10/23/22 14:42:15.125 [750] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Server: Handling XPC Event : <OS_xpc_connection: <connection: 0x7f7892a1c0d0> { name = com.apple.WirelessCoexManager.peer.0x7f7892a1c0d0, listener = false, pid = 369, euid = 501, egid = 20, asid = 100003 }>
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Server: Handling XPC Connection Event
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Session init
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Server: 1 active sessions
+10/23/22 14:42:15.125 [750] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Server: Handling XPC Event : <OS_xpc_connection: <connection: 0x7f7892a1ef90> { name = com.apple.WirelessCoexManager.peer.0x7f7892a1ef90, listener = false, pid = 369, euid = 501, egid = 20, asid = 100003 }>
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Server: Handling XPC Connection Event
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Session init
+10/23/22 14:42:15.125 [750] <COEX_Trace>: WCM_Server: 2 active sessions
+10/23/22 14:42:15.125 [750] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+10/23/22 14:42:15.125 [750] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+10/23/22 14:42:15.125 [750] <COEX_Public>: WiFi powerState(0 -> 1)
+10/23/22 14:42:15.125 [750] <COEX_Public>: wifiState(DISABLED -> ENABLED) wifiChannel(0 -> 0)
+10/23/22 14:42:15.125 [750] <COEX_Detail>: centerFreq(0 -> 0) bandwidth(0 -> 20)
+10/23/22 14:42:15.126 [750] <COEX_Trace>: Received messageId(1) from WCMUnknown <OS_xpc_dictionary: <dictionary: 0x7f7892814b90> { count = 2, transaction: 1, voucher = 0x7f7892a19230, contents =
+	"kMessageId" => <uint64: 0x8728ef1557e76b1>: 1
+	"kMessageArgs" => <dictionary: 0x7f7891f100b0> { count = 1, transaction: 0, voucher = 0x0, contents =
+		"kWCMRegisterProcess_ProcessId" => <uint64: 0x8728ef1557ec6b1>: 10
+	}
+}>
+10/23/22 14:42:15.126 [750] <COEX_Warning>: WCM_Session: Coex not active on this platform, not registering for WRMIPTelephony
+10/23/22 14:42:15.126 [750] <COEX_Trace>: WCM_Controller was created for WRMIPTelephony
+10/23/22 14:42:15.126 [750] <COEX_Trace>: Initialize IP Telephony iRAT Manager Controller for WRMIPTelephony
+10/23/22 14:42:15.126 [750] <COEX_Trace>: WCM_Session: Registed with Handover Manager, updating controller
+10/23/22 14:42:15.126 [750] <COEX_Trace>: Received messageId(1) from WCMUnknown <OS_xpc_dictionary: <dictionary: 0x7f7892815190> { count = 2, transaction: 1, voucher = 0x7f7892a19230, contents =
+	"kMessageId" => <uint64: 0x8728ef1557e76b1>: 1
+	"kMessageArgs" => <dictionary: 0x7f7891f102d0> { count = 1, transaction: 0, voucher = 0x0, contents =
+		"kWCMRegisterProcess_ProcessId" => <uint64: 0x8728ef1557e16b1>: 7
+	}
+}>
+10/23/22 14:42:15.126 [750] <COEX_Warning>: WCM_Session: Coex not active on this platform, not registering for WRMCommCenter
+10/23/22 14:42:15.126 [750] <COEX_Trace>: WCM_Controller was created for WRMCommCenter
+10/23/22 14:42:15.126 [750] <COEX_Trace>: Initialize <WRM_iRATClientController: 0x7f7891f10050> for WRMCommCenter
+10/23/22 14:42:15.126 [750] <COEX_Trace>: WCM_Session: Registed with Handover Manager, updating controller
+10/23/22 14:42:15.126 [750] <COEX_Public>: Updating policy for WiFi power on
+10/23/22 14:42:15.126 [750] <COEX_Trace>:  In sendRCU2UpdateMessage.. enter
+10/23/22 14:42:15.126 [750] <COEX_Detail>: Handling WIFI Network Config change
+10/23/22 14:42:15.126 [750] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/23/22 14:42:15.126 [750] <COEX_Trace>: AWD query callbacks registration result: AntSelPolicyStats 1 ULCACoexStats 1
+10/23/22 14:42:15.126 [750] <COEX_Detail>: Handling WIFI Network Config change
+10/23/22 14:42:15.126 [750] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/23/22 14:42:15.126 [750] <COEX_Trace>: updateBTConnectedDevices with btPower=off
+10/23/22 14:42:15.126 [750] <COEX_Trace>: handleBTLeConn updating state to WiFi
+10/23/22 14:42:15.126 [750] <COEX_Trace>: LastSent: EN(0) DC(0) DUR(0) Peak(0)
+10/23/22 14:42:15.126 [750] <COEX_Trace>: CurrState: wifi(ENABLED) EN(0) DC(0) DUR(0) Peak(30) 
+10/23/22 14:42:15.126 [750] <COEX_Trace>: [BTCoexCA] updateBTCoexWifiState=ENABLED wifiChannel=0
+10/23/22 14:42:15.142 [750] <COEX_Trace>: WiFiS: powerStateDidChangeForWiFiInterfaceWithName for en0
+10/23/22 14:42:15.142 [750] <COEX_Public>: WiFiS: wifiState(ENABLED) wifiChannel(0)
+10/23/22 14:42:15.143 [750] <COEX_Public>: WiFi powerState(1 -> 1)
+10/23/22 14:42:15.143 [750] <COEX_Public>: wifiState(ENABLED -> ENABLED) wifiChannel(0 -> 0)
+10/23/22 14:42:15.143 [750] <COEX_Public>: Updating policy for WiFi power on
+10/23/22 14:42:15.143 [750] <COEX_Trace>:  In sendRCU2UpdateMessage.. enter
+10/23/22 14:42:15.143 [750] <COEX_Detail>: Handling WIFI Network Config change
+10/23/22 14:42:15.143 [750] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
